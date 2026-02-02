@@ -77,3 +77,9 @@ MIT License - feel free to use this code for your own projects.
 ## Note
 
 This interface is designed to be a secure, efficient bridge between users and backend AI processing systems. While the frontend is open-source, it requires proper backend configuration (n8n workflows and MCP servers) to function fully.
+
+## Author
+
+Built by [Amar Harolikar](https://www.linkedin.com/in/amarharolikar/)
+
+Explore 30+ open source AI tools for analytics, databases & automation at [tigzig.com](https://tigzig.com)
